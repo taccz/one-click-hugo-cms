@@ -1,5 +1,5 @@
 ---
-title: Vyborne kaficko z lokálu
+title: Vyborne kaficko z lokalu
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
